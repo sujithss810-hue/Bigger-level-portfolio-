@@ -1,0 +1,1 @@
+This repository contains a personal portfolio website built using HTML and CSS. The project is designed to showcase personal details, educational background, technical skills, and contact information in a clean and responsive layout.
